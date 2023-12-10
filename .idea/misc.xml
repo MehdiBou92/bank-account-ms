@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/untitled/ear" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled/servlets/servlet" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/App/App/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/custumer-service/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/account-service/account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/account-service/account/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Config/Config/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

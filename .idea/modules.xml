@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/custumer-service/customer-service/App.iml" filepath="$PROJECT_DIR$/custumer-service/customer-service/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config/Config/Config.iml" filepath="$PROJECT_DIR$/Config/Config/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projet Youssfi.iml" filepath="$PROJECT_DIR$/.idea/Projet Youssfi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account-service/account/account.iml" filepath="$PROJECT_DIR$/account-service/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/gateway/app (1) (Gateway-service).iml" filepath="$PROJECT_DIR$/Gateway/gateway/app (1) (Gateway-service).iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery/discovery.iml" />
+    </modules>
+  </component>
+</project>
